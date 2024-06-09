@@ -1,0 +1,14 @@
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.pokemon{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.pokemon:hover{
+    background-color: bisque;
+}

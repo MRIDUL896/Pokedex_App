@@ -1,0 +1,23 @@
+.pokeListWrapper {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.prvNxt {
+    display: flex;
+    justify-content: center;
+}
+
+.prvNxt button {
+    margin : 20px;
+    padding: 5px 10px;
+    background-color: red;
+    border-radius: 20%;
+}
+
+:hover .prvNxt>button {
+    background-color: rgb(216, 77, 77);
+}
