@@ -5,6 +5,13 @@
     align-items: center;
 }
 
+.pkdx { 
+    height: 150px;
+    width: 350px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
 h1 {
     font-size: 4rem;
 }

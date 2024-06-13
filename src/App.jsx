@@ -1,15 +1,12 @@
-import { useState } from 'react'
 import './App.css'
-import Header from './Components/Header/Header'
-import Pokelist from './Components/Pokelist/Pokelist'
+import Customroutes from './Routes/Customroutes';
 
 function App() {
   return(
-    <div>
-      <Header/>
-      <Pokelist/>
-    </div>
+    <>
+      <Customroutes/>
+    </>
   )
 }
 
-export default App
+export default App;

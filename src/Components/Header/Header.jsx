@@ -4,7 +4,7 @@ const Header = () => {
     return(
         <div className="header">
             <div className="heading">
-                <h1>Pokedex</h1>
+                <img className='pkdx' src="https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png" alt="" />
             </div>
             <div className="search">
                 <input id="pkmn" type="text" placeholder="Pokemon name or Pokedex entry" />

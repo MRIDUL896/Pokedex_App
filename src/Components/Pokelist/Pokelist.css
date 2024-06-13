@@ -7,17 +7,18 @@
 }
 
 .prvNxt {
+    margin-top: 25px;
     display: flex;
     justify-content: center;
 }
 
-.prvNxt button {
+button {
     margin : 20px;
     padding: 5px 10px;
     background-color: red;
     border-radius: 20%;
 }
 
-:hover .prvNxt>button {
-    background-color: rgb(216, 77, 77);
+button:hover {
+    background-color: rgb(135, 3, 3);
 }
